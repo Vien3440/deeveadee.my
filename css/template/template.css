@@ -1,0 +1,13 @@
+body{
+    background-color: #97ecdb;
+    color: #70146a;
+}
+
+.colorBack{
+    background-color: #fc5e21 ;
+}
+
+.thumbnail{
+    background-color: #c90b0b;
+    border: 3px solid #fc5e21;
+}
